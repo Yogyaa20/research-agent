@@ -61,7 +61,7 @@ The system follows a sophisticated pipeline to ensure data accuracy:
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/Yogyaa20/neural-researcher.git](https://github.com/Yogyaa20/neural-researcher.git)
+    git clone [https://github.com/Yogyaa20/research-agent.git](https://github.com/Yogyaa20/research-agent.git)
     cd neural-researcher
     ```
 
