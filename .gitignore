@@ -1,0 +1,26 @@
+# Secrets and API Keys
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit logs and cache
+.streamlit/
+static/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Local Database/Vault files
+neural_vault.json
+*.db
+*.sqlite
+
+# OS related files
+.DS_Store
+Thumbs.db
